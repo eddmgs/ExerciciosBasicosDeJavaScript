@@ -36,7 +36,11 @@ Mantenha a mensagem condizente com a idade informada.​
 
 
 
-
+##### O que aprendi :
+* *else*
+* *if*
+* *else if*
+<br>
 
 
 
