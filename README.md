@@ -45,12 +45,36 @@ Mantenha a mensagem condizente com a idade informada.​
 
 
 
+## Exercício número 3   <br>
+
+ 3 - Modifique o exercício anterior para pedir os dados do usuário somente depois dele clicar em um botão escrito "Entrar". 
+
+Faça a mensagem de saudação ser exibida em um H1, e a mensagem personalizada em um H2.
 
 
 
+##### O que aprendi :
+* *Document.write aceitando html*
+* *if*
+* *else*
+* *else if*
+<br>
 
+## Exercício número 4   <br>
 
+4 - Modifique o exercício anterior para exibir um alerta escrito "Preencha os campos corretamente!" caso o usuário não preencha o nome ou idade. 
 
+A página não deve exibir a mensagem de saudação neste caso.
+
+* *Document.write aceitando html*
+* *if*
+* *else*
+* *else if*
+* return*
+* *alert*
+
+<br>
+<br>
 
 
 
