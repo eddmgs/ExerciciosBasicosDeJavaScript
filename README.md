@@ -78,8 +78,11 @@ A página não deve exibir a mensagem de saudação neste caso.
 
 
 
+## Exercício número 5   <br>
 
+5 - Crie uma página que vai pedir ao usuário "Digite qual tabuada você quer saber:", o usuário vai digitar um número e a partir desse número você vai exibir a tabuada correspondente. 
 
-<h4 align="center"> 
-	🚧  🚀 Em construção...  🚧
-</h4>
+Utilize um laço de repetição para montar a tabuada.
+
+* *Laços de repetição*
+
